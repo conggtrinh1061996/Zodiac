@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_image_zodiac">80dp</dimen>
+    <dimen name="size_circle">380dp</dimen>
+    <dimen name="size_image_detail">80dp</dimen>
+    <dimen name="size_bg_image_detail">128dp</dimen>
+</resources>
